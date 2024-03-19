@@ -41,11 +41,13 @@
 -⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__
 -⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻--⎽_
  
-OPENSEES AUTOCOMP 1.1 
+OPENSTOOLS
 AUTHOR: GIANLUCA CAVALLO
+DRSATE XXXVIII PhD cycle
 POLITECNICO DI BARI
 YEAR: 2023
 EMAIL: gi.cav.2586@gmail.com
+EMAIL: g.cavallo@phd.poliba.it
 Please, cite the author if use any part of this code
 note: This code is part of the phd study course with the Supervisor: Prof. G Elia and Scientific Director: Prof.ssa Federica Cotecchia.
 note: This code will be used only for scientific purposes. no commercial objectives will be sought
