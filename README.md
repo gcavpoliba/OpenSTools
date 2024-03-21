@@ -1,4 +1,6 @@
-![logo](logo.png)
+![logo](logo.png)\
+\
+\
 ![OpenSTools](SlopeVolumeStatic.png)
 OPENSTOOLS
 ==========
@@ -40,10 +42,6 @@ Whit this code you could perform easily the analysis with every mesh you build w
 element you should take care in the geo_material choice\
 Have fun\
 \
-\
-\
-\
-
 VIDEO RESULT EXAMPLES
 ---------------------
 [VIDEO EXAMPLE 1 - 3D column](https://drive.google.com/file/d/1Ue9vC5-j3zWNgDACLFwJYLfs1_mDjYV_/view?usp=sharing)\
