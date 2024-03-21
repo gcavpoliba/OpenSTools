@@ -1,3 +1,20 @@
+print('SOFTWARE: OpenSTools version. 1.0\n\
+RELEASE LICENCE: AGPLv3.0 - Gianluca Cavallo - March 2024\n\
+DEVELOPER: Eng. MSC. Gianluca Cavallo\n\
+YEAR: Since 2923\n\
+EMAIL: g.cavallo@phd.poliba.it\n\
+EMAIL: gi.cav.2586@gmail.com\n\
+notes: This code was developed during the Phd course: "DRSATE XXXVIII Phd courses cycloe". The aim of the doctorate is the\n\
+disaster prevention and protection by the use of HPC systems.\n\
+\n\
+This software will be used only for sceintific purposes and for noncommercial one and in a way to respect the copyright of the\n\
+python application tools used to develop the OpenSTools application.\n\
+\n\
+The author is not responsable for the use and for the results obtained by the user.\n\
+The user takes every duty and responsability derived by the use of OpenSTools on his own in front of the law.\n')
+
+print('\n\n\n\n\n\n\n')
+
 print('Copyright @ 1999-2020 The Regents of the University of California [The Regents]. All Rights Reserved.\n)
 print('\n')
 print('The Regents grants permission, without fee and without a written license agreement, for [a] use\n') 
@@ -30,22 +47,12 @@ REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, TH
 AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED \n\
 *AS IS*. REGENTS HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.\n')
 
-print('SOFTWARE: OpenSTools version. 1.0\n\
-RELEASE LICENCE: AGPLv3.0 - Gianluca Cavallo - March 2024\n\
-DEVELOPER: Eng. MSC. Gianluca Cavallo\n\
-YEAR: Since 2923
-EMAIL: g.cavallo@phd.poliba.it
-EMAIL: gi.cav.2586@gmail.com
-notes: This code was developed during the Phd course: "DRSATE XXXVIII Phd courses cycloe". The aim of the doctorate is the\n\
-disaster prevention and protection by the use of HPC systems.\n\
-\n\
-This software will be used only for sceintific purposes and for noncommercial one and in a way to respect the copyright of the\n\
-python application tools used to develop the OpenSTools application.\n\
-\n\
-The author is not responsable for the use and for the results obtained by the user.\n\
-The user takes every duty and responsability derived by the use of OpenSTools on his own in front of the law.\n')
+print('MPCO post-processing tool\n\
+ASDEA Software Technology: https://asdeasoft.net STKO [Scientific ToolKit for OpenSees]: \n\
+https://asdeasoft.net/stko/\n\
+Petracca, M., Candeloro, F., & Camata, G. [2017]. "STKO user manual". ASDEA Software Technology, Pescara Italy.\n')
 
-
+print('Gmsh is copyright (C) 1997-2024 by C. Geuzaine and J.-F. Remacle')
 
 
 import os
