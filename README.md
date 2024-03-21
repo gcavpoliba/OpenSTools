@@ -27,8 +27,8 @@ Petracca, M., Candeloro, F., & Camata, G. (2017). "STKO user manual". ASDEA Soft
 
 CODE DEPENDENCIES
 -----------------
-\
-openseespy\ 
+
+openseespy \ 
 opensees \
 gmsh \
 gmsh2opensees \
@@ -37,7 +37,7 @@ scipy \
 time \
 math \
 os\
-\
+
 
 REMARKS AND TIPS
 ----------------
