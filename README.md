@@ -29,13 +29,21 @@ CODE DEPENDENCIES
 -----------------
 
 openseespy \ 
+
 opensees \
+
 gmsh \
+
 gmsh2opensees \
+
 numpy \
+
 scipy \
+
 time \
+
 math \
+
 os\
 
 
