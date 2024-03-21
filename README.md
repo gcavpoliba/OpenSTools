@@ -50,7 +50,7 @@ os
 
 REMARKS AND TIPS
 ----------------
-\
+
 The milestone codes followed are those in the opensees and openseespy documentation on 2d and 3d shaked columns\
 The file MASTER.py is only a rough example to test the code functionality and it will not lead to a result\
 The file MASTER is connected to the tool module "openSTools.py"\
@@ -65,16 +65,16 @@ In gmsh you HAVE TO call Solid the geo-element of dimension 3 or you will get an
 Whit this code you could perform easily the analysis with every mesh you build with gmsh and 20-8 node up \
 element you should take care in the geo_material choice\
 Have fun\
-\
+
+
 
 VIDEO RESULT EXAMPLES
 ---------------------
 [VIDEO EXAMPLE 1 - 3D column](https://drive.google.com/file/d/1Ue9vC5-j3zWNgDACLFwJYLfs1_mDjYV_/view?usp=sharing)\
 [VIDEO EXAMPLE 2 - 9_4_QuadUP Slope](https://drive.google.com/file/d/1MoHQG83_UJ0E3Z8VB5SbzlZygr_vr56s/view?usp=sharing)\
-\
-\
-\
-\
+
+
+
 Copyright @ 1999-2020 The Regents of the University of California (The Regents). All Rights Reserved.\
 \
 The Regents grants permission, without fee and without a written license agreement, for (a) use, \
