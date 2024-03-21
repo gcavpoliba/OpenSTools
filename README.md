@@ -25,6 +25,20 @@ All rights reserved to:
 STKO (Scientific ToolKit for OpenSees): https://asdeasoft.net/stko/ 
 Petracca, M., Candeloro, F., & Camata, G. (2017). "STKO user manual". ASDEA Software Technology, Pescara Italy.
 
+CODE DEPENDENCIES
+-----------------
+\
+openseespy\ 
+opensees \
+gmsh \
+gmsh2opensees \
+numpy \
+scipy \
+time \
+math \
+os\
+\
+
 REMARKS AND TIPS
 ----------------
 \
@@ -34,7 +48,7 @@ The file MASTER is connected to the tool module "openSTools.py"\
 You have to execute the mfix function any times the number of the fixed surfaces, pay attention to the edges\
 The same if you want remove the fixies\
 Please contact me for some code bugs to correct\
-You have to install by pip: openseespy opensees gmsh gmsh2opensees numpy scipy time math os\
+
 Gmsh2Opensees is available from  here: https://github.com/jaabell/gmsh2opensees/archive/refs/heads/main.zip,\
 follow the github.com/jaabell/gmsh2opensees instruction to install in your python interpreter.\
 Before to install remember to change the g2o_elements_functions.py.\
