@@ -16,6 +16,7 @@ OPENSTOOLS
 **note:** This code is part of the phd study course with the Supervisor: Prof. G Elia and Scientific Director: Prof.ssa Federica Cotecchia.\
 **note:** This code will be used only for scientific purposes. no commercial objectives will be sought\
 **note:** The user accept in use this code in all of its part for noncommercial purposes only\
+**note:** The user has to respect every copyright request and limitation on his own responsability
 
 All rights reserved to:
 - University of California - Office of technology licensing.
