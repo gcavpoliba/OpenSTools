@@ -27,6 +27,7 @@ Petracca, M., Candeloro, F., & Camata, G. (2017). "STKO user manual". ASDEA Soft
 
 REMARKS AND TIPS
 ----------------
+\
 The milestone codes followed are those in the opensees and openseespy documentation on 2d and 3d shaked columns\
 The file MASTER.py is only a rough example to test the code functionality and it will not lead to a result\
 The file MASTER is connected to the tool module "openSTools.py"\
@@ -42,6 +43,7 @@ Whit this code you could perform easily the analysis with every mesh you build w
 element you should take care in the geo_material choice\
 Have fun\
 \
+
 VIDEO RESULT EXAMPLES
 ---------------------
 [VIDEO EXAMPLE 1 - 3D column](https://drive.google.com/file/d/1Ue9vC5-j3zWNgDACLFwJYLfs1_mDjYV_/view?usp=sharing)\
