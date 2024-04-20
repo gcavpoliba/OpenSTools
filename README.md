@@ -1,7 +1,7 @@
 ![logo](logo.png)\
 \
 \
-![OpenSTools](SlopeVolumeStatic.png)
+![OpenSTools](InitialStaticAnalysis.png)
 OPENSTOOLS
 ==========
 
