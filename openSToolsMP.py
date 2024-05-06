@@ -2,6 +2,62 @@
 ############### PLEASE READ THE README FILE AND ALL THE GENERAL CONDITION FOR THE USE ARE VALID IN THIS CASE ALSO ################
 ############### ALSO FOR THIS THE MANUAL WILL BE WRITTEN AS SOON AS POSSIBLE, THERE ARE  STILL BUGS TO RESOLVE ###################
 
+print('SOFTWARE: OpenSTools version. 1.0\n\
+RELEASE LICENCE: AGPLv3.0 - Gianluca Cavallo - March 2024\n\
+DEVELOPER: Eng. MSC. Gianluca Cavallo\n\
+YEAR: Since 2923\n\
+EMAIL: g.cavallo@phd.poliba.it\n\
+EMAIL: gi.cav.2586@gmail.com\n\
+notes: This code was developed during the Phd course: "DRSATE XXXVIII Phd courses cycloe". The aim of the doctorate is the\n\
+disaster prevention and protection by the use of HPC systems.\n\
+\n\
+This software will be used only for sceintific purposes and for noncommercial one and in a way to respect the copyright of the\n\
+python application tools used to develop the OpenSTools application.\n\
+\n\
+The author is not responsable for the use and for the results obtained by the user.\n\
+The user takes every duty and responsability derived by the use of OpenSTools on his own in front of the law.\n')
+
+print('\n\n\n\n\n\n\n')
+
+print('Copyright @ 1999-2020 The Regents of the University of California [The Regents]. All Rights Reserved.\n)
+print('\n')
+print('The Regents grants permission, without fee and without a written license agreement, for [a] use\n') 
+print('reproduction, modification, and distribution of this software and its documentation by educational,\n') 
+print("research, and non-profit entities for noncommercial purposes only; and [b] use, reproduction and \n")
+print('modification of this software by other entities for internal purposes only. The above copyright\n\
+notice, this paragraph and the following three paragraphs must appear in all copies and modifications\n\
+of the software and/or documentation.\n') 
+print('\n\
+\n\
+Permission to incorporate this software into products for commercial distribution may be obtained \n\
+by contacting the University of California \n\
+Office of Technology Licensing \n\
+2150 Shattuck Avenue n 510, \n\
+Berkeley, CA 94720-1620, \n\
+[510] 643-7201.\n\
+\n\
+This software program and documentation are copyrighted by The Regents of the University of California. \n\
+The Regents does not warrant that the operation of the program will be uninterrupted or error-free. The \n\
+end-user understands that the program was developed for research purposes and is advised not to rely \n\
+exclusively on the program for any reason.\n')
+
+print('IN NO EVENT SHALL REGENTS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL \n\
+DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF REGENTS\n') 
+print('HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  REGENTS GRANTS NO EXPRESS OR IMPLIED LICENSE IN ANY PATENT \n\
+RIGHTS OF REGENTS BUT HAS IMPLEMENTED AN INDIVIDUAL CONTRIBUTOR LICENSE AGREEMENT FOR THE OPENSEES PROJECT AT \n\
+THE UNIVERISTY OF CALIFORNIA, BERKELEY TO BENEFIT THE END USER.\n\
+\n\
+REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY \n\
+AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED \n\
+*AS IS*. REGENTS HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.\n')
+
+print('MPCO post-processing tool\n\
+ASDEA Software Technology: https://asdeasoft.net STKO [Scientific ToolKit for OpenSees]: \n\
+https://asdeasoft.net/stko/\n\
+Petracca, M., Candeloro, F., & Camata, G. [2017]. "STKO user manual". ASDEA Software Technology, Pescara Italy.\n')
+
+print('Gmsh is copyright (C) 1997-2024 by C. Geuzaine and J.-F. Remacle')
+
 py = open("cubotto_exe.py","w")
 py.write('import os\n\
 import openseespy.opensees as ops\n\
