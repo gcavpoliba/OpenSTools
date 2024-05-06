@@ -4,7 +4,7 @@
 ![OpenSTools](InitialStaticAnalysis.png)
 OPENSTOOLS
 ==========
-
+**LAST UPDATE** 05/05/2024: OpenSTools for MP parallel calculations is available for the download!
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
 **POLITECNICO DI BARI** - **DRSATE XXXVIII PhD cycle**\
