@@ -4,7 +4,7 @@
 ![OpenSTools](InitialStaticAnalysis.png)
 OPENSTOOLS
 ==========
-**LAST UPDATE** 05/05/2024: OpenSTools for MP parallel calculations is available for the download!\
+**LAST UPDATE** 11/05/2024: An example of elastoplastic column 3d solved with 4 CPU - the model is more or less like that in the online opensees example manual but solved with the openseesmp\
 \
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
@@ -73,7 +73,8 @@ VIDEO RESULT EXAMPLES
 ---------------------
 [VIDEO EXAMPLE 1 - 3D column](https://drive.google.com/file/d/1Ue9vC5-j3zWNgDACLFwJYLfs1_mDjYV_/view?usp=sharing)\
 [VIDEO EXAMPLE 2 - 9_4_QuadUP Slope](https://drive.google.com/file/d/1MoHQG83_UJ0E3Z8VB5SbzlZygr_vr56s/view?usp=sharing)\
-[VIDEO EXAMPLE 3 - OpenSeesMP Test](https://drive.google.com/file/d/1jniWE-f_xVxvQa1_Yrob-j4buQ_P3W05/view?usp=sharing)
+[VIDEO EXAMPLE 3 - OpenSeesMP Test](https://drive.google.com/file/d/1jniWE-f_xVxvQa1_Yrob-j4buQ_P3W05/view?usp=sharing)\
+[VIDEO EXAMPLE 4 - COLUMN3D ELASTOPLASTIC OENSEES(MP) MAUAL EXAMPLE TYPE](https://drive.google.com/file/d/1jjUpc4r0JfAAv64tATB_HXGFPXpJWzIJ/view?usp=sharing)
 
 
 
