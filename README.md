@@ -74,7 +74,7 @@ VIDEO RESULT EXAMPLES
 [VIDEO EXAMPLE 1 - 3D column](https://drive.google.com/file/d/1Ue9vC5-j3zWNgDACLFwJYLfs1_mDjYV_/view?usp=sharing)\
 [VIDEO EXAMPLE 2 - 9_4_QuadUP Slope](https://drive.google.com/file/d/1MoHQG83_UJ0E3Z8VB5SbzlZygr_vr56s/view?usp=sharing)\
 [VIDEO EXAMPLE 3 - OpenSeesMP Test](https://drive.google.com/file/d/1jniWE-f_xVxvQa1_Yrob-j4buQ_P3W05/view?usp=sharing)\
-[VIDEO EXAMPLE 4 - COLUMN3D ELASTOPLASTIC OENSEES(MP) MAUAL EXAMPLE TYPE](https://drive.google.com/file/d/1jjUpc4r0JfAAv64tATB_HXGFPXpJWzIJ/view?usp=sharing)
+[VIDEO EXAMPLE 4 - Elastoplastic 3D column solved with 4 cpu](https://drive.google.com/file/d/1jjUpc4r0JfAAv64tATB_HXGFPXpJWzIJ/view?usp=sharing)
 
 
 
