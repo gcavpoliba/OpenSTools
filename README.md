@@ -4,7 +4,7 @@
 ![OpenSTools](InitialStaticAnalysis.png)
 OPENSTOOLS
 ==========
-**LAST UPDATE** 11/05/2024: An example of elastoplastic column 3d solved with 4 CPU - the model is more or less like that in the online opensees example manual but solved with the openseesmp\
+**LAST UPDATE** 21/05/2024: Update of last case study about a big model solved with OpenSeesMP and preprocessed with the OpenSToolsMP downloadable application\
 \
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
