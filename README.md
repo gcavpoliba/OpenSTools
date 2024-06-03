@@ -4,7 +4,7 @@
 ![OpenSTools](InitialStaticAnalysis.png)
 OPENSTOOLS
 ==========
-**LAST UPDATE** 21/05/2024: Update of last case study about a big model solved with OpenSeesMP and preprocessed with the OpenSToolsMP downloadable application\
+**LAST UPDATE** 03/06/2024: Update the jupyter notebook python code to test the nDMaterial in a simple shear case, another one to plot the results and a matlab code to convert the results in a res file derived from the famous flaviaWriter.m, stay tuned :D \
 \
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
