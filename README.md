@@ -1,12 +1,13 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11528785.svg)](https://doi.org/10.5281/zenodo.11528785)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14056127.svg)](https://doi.org/10.5281/zenodo.14056127) ***UPDATED!!! v2 available!!!***
+
 
 ![logo](logo.png)\
 \
 \
 ![OpenSTools](InitialStaticAnalysis.png)
-OPENSTOOLS
+OPENSTOOLS (v2)
 ==========
-**LAST UPDATE** 03/06/2024: Update o another jupyter notebook python code to test the nDMaterial in a simple shear case. Another one is to plot the results and a matlab code to convert the results in a res file derived from the famous flaviaWriter.m, stay tuned :D \
+**LAST UPDATE** 08/11/2024 - New Update is available in zenodo repository at: [link](https://zenodo.org/records/14056127)
 \
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
