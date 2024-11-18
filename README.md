@@ -75,7 +75,7 @@ Have fun\
 
 VIDEO RESULT EXAMPLES
 ---------------------
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14174620.svg)](https://doi.org/10.5281/zenodo.14174620)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14174620.svg)](https://doi.org/10.5281/zenodo.14174620) ***code available***
 
 
 ![DRM_Prototype](GIF_pendio.gif)\
