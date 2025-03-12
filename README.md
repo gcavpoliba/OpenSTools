@@ -4,7 +4,9 @@
 ![logo](logo.png)\
 \
 \
-![OpenSTools](InitialStaticAnalysis.png)
+![OpenSTools](InitialStaticAnalysis.png)\
+![OpenSTools](animation(1).mp4)
+
 OPENSTOOLS (v2) [DOWNLOAD HERE](https://doi.org/10.5281/zenodo.14056127)
 ==========
 **LAST UPDATE** 08/11/2024 - New Update is available in zenodo repository at: [link](https://zenodo.org/records/14056127)
