@@ -2,10 +2,13 @@
 
 
 ![logo](logo.png)\
-\
-\
-![OpenSTools](InitialStaticAnalysis.png)\
-![OpenSTools](animation.gif)
+
+
+
+
+___![OpenSTools](InitialStaticAnalysis.png)\
+__![OpenSTools](animation.gif)\
+
 
 OPENSTOOLS (v2) [DOWNLOAD HERE](https://doi.org/10.5281/zenodo.14056127)
 ==========
@@ -82,7 +85,11 @@ VIDEO RESULT EXAMPLES
 
 ![DRM_Prototype](GIF_pendio.gif)\
 
-![DRM_Prototype2](2DPrototype.gif)\
+___________![DRM_Prototype2](2DPrototype.gif)\
+
+<div align="center">
+<img src="output.gif" alt="Description" width="800" height="600" />
+</div>
 
 
 Copyright @ 1999-2020 The Regents of the University of California (The Regents). All Rights Reserved.\
