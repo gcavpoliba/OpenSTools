@@ -5,7 +5,7 @@
 \
 \
 ![OpenSTools](InitialStaticAnalysis.png)\
-![OpenSTools](animation(1).mp4)
+![OpenSTools](animation.gif)
 
 OPENSTOOLS (v2) [DOWNLOAD HERE](https://doi.org/10.5281/zenodo.14056127)
 ==========
