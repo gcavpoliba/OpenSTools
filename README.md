@@ -8,6 +8,7 @@
 
 ___![OpenSTools](InitialStaticAnalysis.png)\
 __![OpenSTools](animation.gif)\
+__![OpenSTools](animation%20(2).gif)\
 
 
 OPENSTOOLS (v2) [DOWNLOAD HERE](https://doi.org/10.5281/zenodo.14056127)
