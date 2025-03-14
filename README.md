@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14056127.svg)](https://doi.org/10.5281/zenodo.14056127) ***UPDATED!!! v2 available!!!***
 
 
 ![logo](logo.png)\
@@ -8,13 +7,18 @@
 
 ___![OpenSTools](InitialStaticAnalysis.png)\
 __![OpenSTools](animation.gif)\
-__![OpenSTools](animation%20(2).gif)\
-
-
-OPENSTOOLS (v2) [DOWNLOAD HERE](https://doi.org/10.5281/zenodo.14056127)
+__![OpenSTools](animation%20(2).gif)
 ==========
-**LAST UPDATE** 08/11/2024 - New Update is available in zenodo repository at: [link](https://zenodo.org/records/14056127)
+***UPDATED!!! v2 available!!!***
+OPENSTOOLS (v2)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14056127.svg)](https://doi.org/10.5281/zenodo.14056127) \
+[DOWNLOAD HERE](https://doi.org/10.5281/zenodo.14056127)
+==========
+***LAST UPDATE***:
+14/03/2025 (pi greek day) - opstvis: a rough node results visualizing tool with pyvista and FeView [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15025232.svg)](https://doi.org/10.5281/zenodo.15025232)
 \
+[DOWNLOAD HERE](https://zenodo.org/records/15025232)
+==========
 
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
