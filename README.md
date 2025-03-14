@@ -79,7 +79,11 @@ Before to install remember to change the g2o_elements_functions.py.\
 In gmsh you HAVE TO call Solid the geo-element of dimension 3 or you will get an "invalid 'Solid'" error.\
 Whit this code you could perform easily the analysis with every mesh you build with gmsh and 20-8 node up \
 element you should take care in the geo_material choice\
-Have fun\
+At last, remember to add the 20 hex node element in the gmsh2opensees package before to add it in python
+
+\***Have fun***
+=============================
+
 
 
 
