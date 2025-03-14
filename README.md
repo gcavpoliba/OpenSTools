@@ -109,4 +109,14 @@ research, and non-profit entities for noncommercial purposes only; and (b) use, 
 modification of this software by other entities for internal purposes only. The above copyright \
 notice, this paragraph and the following three paragraphs must appear in all copies and modifications \
 of the software and/or documentation.\
+\
+
+OPSTOOLS - Anti-Plagiarism Notice
+==================================
+This software is licensed under the GNU Affero General Public License (AGPL). We encourage collaboration and sharing of knowledge within the open-source community. However, we strongly condemn any form of plagiarism.
+
+Plagiarism undermines the integrity of our work and the trust within the community. If you use or modify this software, please ensure that you give appropriate credit to the original authors and respect the terms of the AGPL.
+
+By contributing to this project, you agree to uphold these principles and promote a culture of honesty and respect in software development. Let’s work together to create a transparent and collaborative environment!
+
 
