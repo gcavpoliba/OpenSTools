@@ -28,7 +28,7 @@ OPENSTOOLS (v2)
 
 **POLITECNICO DI BARI** - **DRSATE XXXVIII PhD cycle**\
 **author:** GIANLUCA CAVALLO 
-[![ORCID](https://img.shields.io/badge/ORCID-ID-green?logo=orcid)](https://orcid.org/0000-0002-1825-0097)\
+[![ORCID](https://img.shields.io/badge/ORCID-ID-green?logo=orcid)](https://orcid.org/0009-0000-6177-0875)\
 **year: 2023**\
 **email:** gi.cav.2586@gmail.com\
 **email:** g.cavallo@phd.poliba.it\
