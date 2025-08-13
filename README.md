@@ -26,7 +26,8 @@ OPENSTOOLS (v2)
 **A python code to pre-process the finite element models in the OpenSees and OpenSeesSP software**
 
 **POLITECNICO DI BARI** - **DRSATE XXXVIII PhD cycle**\
-**author:** GIANLUCA CAVALLO\
+**author:** GIANLUCA CAVALLO 
+[![ORCID](https://img.shields.io/badge/ORCID-ID-green?logo=orcid)](https://orcid.org/0000-0002-1825-0097)\
 **year: 2023**\
 **email:** gi.cav.2586@gmail.com\
 **email:** g.cavallo@phd.poliba.it\
