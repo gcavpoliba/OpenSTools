@@ -10,7 +10,8 @@ __![OpenSTools](animation.gif)\
 __![OpenSTools](animation%20(2).gif)
 ==========
 08/08/2025 - OPSTVIS Parallel Version - The python code for OPSTVIS able to plot the OpenSees parallel code with pyVista/paraView, Enjoy \
-__![OpenSTools](PARAVIEW.png)
+__![OpenSTools](PARAVIEW.png) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16835626.svg)](https://doi.org/10.5281/zenodo.16835626) PARALLEL \
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15025232.svg)](https://doi.org/10.5281/zenodo.15025232) SINGLE ELEMENT
 ==========
 ***UPDATED!!! v2 available!!!***
 OPENSTOOLS (v2)
